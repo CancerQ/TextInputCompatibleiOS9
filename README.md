@@ -1,0 +1,2 @@
+# TextInputCompatibleiOS9
+兼容自带中文键盘在iOS9下，自带联想TextView无法响应shouldChangeTextInRange，textFiled无法响应shouldChangeCharactersInRange
